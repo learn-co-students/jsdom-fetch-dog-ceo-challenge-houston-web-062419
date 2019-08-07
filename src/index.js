@@ -10,6 +10,8 @@ fetch(imgUrl)
             const div = document.querySelector("#dog-image-container")
             const img = document.createElement("img")
             img.src = element
+            img.style.height = "200px"
+            img.style.width = "200px"
             div.append(img)
         });
 })
