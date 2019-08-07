@@ -41,13 +41,9 @@ fetch(breedUrl)
                 li.style.color = "green"
             
             })
-
         })
-
-
-        })
-
     })
+})
 
 
 
